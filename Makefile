@@ -9,8 +9,8 @@ RM := rm -rf
 ################################################################################
 
 OBJ_DIR := _obj
-INC_DIRS := . mini_garbage_collector
-SRC_DIRS := . mini_garbage_collector
+INC_DIRS := . 
+SRC_DIRS := . 
 
 # Tell the Makefile where headers and source files are
 vpath %.h $(INC_DIRS)

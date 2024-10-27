@@ -44,7 +44,7 @@ PRINTF_SRCS :=	printf/ft_printf.c \
 				printf/ft_handle_input_x.c \
 				printf/ft_handle_input_xu.c \
 				printf/ft_write_return_val.c \
-				printf/ft_itoa.c printf/ft_strlen.c
+				printf/ft_pf_itoa.c printf/ft_pf_strlen.c
 
 SRCS += $(BONUS_SRCS) $(PRINTF_SRCS) $(GNL_SRCS)
 

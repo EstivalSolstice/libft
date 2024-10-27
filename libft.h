@@ -6,13 +6,15 @@
 /*   By: joltmann <joltmann@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/07 20:30:28 by joltmann          #+#    #+#             */
-/*   Updated: 2024/10/11 14:32:24 by joltmann         ###   ########.fr       */
+/*   Updated: 2024/10/27 19:46:42 by joltmann         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
+# include "get_next_line/get_next_line.h"
+# include "printf/ft_printf.h"
 # include <ctype.h>
 # include <limits.h>
 # include <stdarg.h>

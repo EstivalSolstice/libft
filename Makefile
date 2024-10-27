@@ -9,7 +9,7 @@ RM := rm -rf
 ################################################################################
 
 OBJ_DIR := _obj
-INC_DIRS := . 
+INC_DIRS := . printf get_next_line
 SRC_DIRS := . 
 
 # Tell the Makefile where headers and source files are
